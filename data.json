@@ -363,16 +363,16 @@
           "batchTag": "2023",
           "id": "136",
           "name": "Suraj Ponanna K C",
-          "imageLink": "https://i.stack.imgur.com/sbX0G.jpg",
+          "imageLink": "https://i.pinimg.com/564x/54/12/1d/54121d42396f39c4e71567749d591a65.jpg",
           "position": "Team Lead",
           "domains": [
             "Deep Learning",
             "Computer Vision",
             "Natural Language Processing"
           ],
-          "github": "https://github.com/Rigved19",
-          "linkedIn": "https://www.linkedin.com/in/rigved-sanku-8933041aa/",
-          "email": "sankurigved@gmail.com",
+          "github": "",
+          "linkedIn": "",
+          "email": "",
           "projects": [
             {
               "pid": "30",
@@ -383,17 +383,17 @@
         {
           "batchTag": "2023",
           "id": "137",
-          "name": "K Girish",
-          "imageLink": "https://rmi-web-images.s3.ap-south-1.amazonaws.com/sJLS7Ti.webp",
-          "position": "Vice President",
+          "name": "Shrish Shrinath Vaidya",
+          "imageLink": "https://i.pinimg.com/564x/5f/d6/f4/5fd6f45edadf1c108c754dc182365f10.jpg",
+          "position": "Team Lead",
           "domains": [
             "Electronics and Embedded Systems",
             "Mechanics",
             "Control systems"
           ],
-          "github": "https://github.com/girish-2001",
-          "linkedIn": "https://www.linkedin.com/in/girish-karthik-959165191/",
-          "email": "girishk1470@gmail.com",
+          "github": "",
+          "linkedIn": "",
+          "email": "",
           "projects": [
             {
               "pid": "34",
@@ -420,13 +420,13 @@
         {
           "batchTag": "2023",
           "id": "138",
-          "name": "Aravindh Deiva G",
-          "imageLink": "https://rmi-web-images.s3.ap-south-1.amazonaws.com/nuu3y15.webp",
+          "name": "Ritesh Gandhi",
+          "imageLink": "https://i.pinimg.com/564x/f3/b4/d1/f3b4d19decb98671f47a348643842e1e.jpg",
           "position": "Treasurer",
           "domains": ["Mechanics", "Photogrammetry", "ROS"],
-          "github": "https://github.com/AravindhDeivaG",
-          "linkedIn": "https://www.linkedin.com/in/aravindh-deiva-ganesan-6668931a1",
-          "email": "aravindhdeiva456@gmail.com",
+          "github": "",
+          "linkedIn": "",
+          "email": "",
           "projects": [
             {
               "pid": "9",
