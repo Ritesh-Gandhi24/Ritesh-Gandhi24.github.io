@@ -1594,6 +1594,7 @@
           "github": "",
           "linkedIn": "",
           "email": "",
+           "projects":[
             {
               "pid": "6",
               "pname": "Soccer Bots"
