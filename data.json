@@ -1,185 +1,397 @@
 {
-    "accolades": {
-      "topHonours": [
-        {
-          "prizeIndex": "1",
-          "title": "Winnners of .....",
-          "organisers": "Organization .... "
-        },
-         {
-          "prizeIndex": "1",
-          "title": "Winnners of .....",
-          "organisers": "Organization .... "
-        },
-        {
-          "prizeIndex": "1",
-          "title": "Winnners of .....",
-          "organisers": "Organization .... "
-        },
+  "accolades": {
+    "topHonours": [
+      {
+        "prizeIndex": "0",
+        "title": "5/5 teams qualified stage-1, Robofest 2.0",
+        "organisers": "Government of Gujarat"
+      },
+      {
+        "prizeIndex": "1",
+        "title": "Winners of Smart India Hackathon 2022",
+        "organisers": "MHRD India"
+      },
+      {
+        "prizeIndex": "0",
+        "title": "Represented NIT Trichy at EXCON 2021, Bangalore",
+        "organisers": "AI, IoT and Automation pavillion"
+      },
+      {
+        "prizeIndex": "0",
+        "title": "Presented two papers at ICCET 2021",
+        "organisers": "Project HIDQ | Project SRF"
+      },
+      {
+        "prizeIndex": "1",
+        "title": "Winners of Amrita Smart City Hackathon 2021",
+        "organisers": "Amrita Coimbatore | Honeywell Technologies | BCIC"
+      },
+      {
+        "prizeIndex": "1",
+        "title": "Winners of eYantra Robotics Competition 2020-2021",
+        "organisers": "eYantra Labs, IIT Bombay"
+      },
+      {
+        "prizeIndex": "0",
+        "title": "Presented two papers at iNaCoMM 2019",
+        "organisers": "International Conference on Machines and Mechanisms"
+      },
+      {
+        "prizeIndex": "0",
+        "title": "Represented NIT Trichy at FINE 2018, Rashtrapathi Bhavan",
+        "organisers": "Festival of Innovation and Entrepreneurship"
+      }
+    ],
+    "accolades": [
+      {
+        "title": "2nd place in Scient Open House'23",
+        "subtitle": "Scient Labs, NIT Trichy",
+        "project": "Project Hexapod | March 2023"
+      },
+      {
+        "title": "5/5 teams qualified stage-1, Robofest 2.0",
+        "subtitle": "Government of Gujarat",
+        "project": "Virya, Hexapod, Quadro, ROV, Self-balancing bot."
+      },
+      {
+        "title": "1st place in Sangam'23 - Space Technology",
+        "subtitle": "Pragyan'23, NIT Trichy",
+        "project": "Project Hexapod | March 2023"
+      },
+      {
+        "title": "2nd place in Sangam'23 - Space Technology",
+        "subtitle": "Pragyan'23, NIT Trichy",
+        "project": "Project Virya | March 2023"
+      },
+      {
+        "title": "1st place in Sangam'23 - Healthcare",
+        "subtitle": "Pragyan'23, NIT Trichy",
+        "project": "Project Quadro | March 2023"
+      },
+      {
+        "title": "1st place in Colloquium'23",
+        "subtitle": "Currents'23, NIT Trichy",
+        "project": "Project SSC | Feb 2023"
+      },
+      {
+        "title": "1st place in Smart India Hackathon 2022",
+        "subtitle": "MHRD India",
+        "project": "Project ANVI | Aug 2022"
+      },
+      {
+        "title": "2 prizes in Scient Open House Contest 2022",
+        "subtitle": "Scient Labs, NIT Trichy",
+        "project": "Project ANVI, ARIBOT | April 2022"
+      },
+      {
+        "title": "1st place in Sangam'22 - Defence and Industrial",
+        "subtitle": "Pragyan'22, NIT Trichy",
+        "project": "Project LEWI | March 2022"
+      },
+      {
+        "title": "1st place in Sangam'22 - Healthcare and Agriculture",
+        "subtitle": "Pragyan'22, NIT Trichy",
+        "project": "Project SSC | March 2022"
+      },
+      {
+        "title": "2nd place in Sangam'22 - Defence and Industrial",
+        "subtitle": "Pragyan'22, NIT Trichy",
+        "project": "Project ARIBOT | March 2022"
+      },
+      {
+        "title": "3rd place in Sangam'22 - Healthcare and Agriculture",
+        "subtitle": "Pragyan'22, NIT Trichy",
+        "project": "Project ANVI | March 2022"
+      },
+      {
+        "title": "1st place in GitHub Ideathon 2022",
+        "subtitle": "GitHub developers community, IIT Madras",
+        "project": "Project SPS | March 2022"
+      },
+      {
+        "title": "1st place in WIN-NITT Ideathon'22",
+        "subtitle": "WIN NITT - ConclaveX",
+        "project": "Project ANVI | March 2022"
+      },
+      {
+        "title": "Presented paper at ICCET 2021",
+        "subtitle": "SR (Supernumerary Robotic) Fingers",
+        "project": "Project SRF | Feb 2022"
+      },
+      {
+        "title": "Presented paper at ICCET 2021",
+        "subtitle": "Pipeline inspection using self-transforming hybrid drive quad-copter",
+        "project": "Project HIDQ | Feb 2022"
+      },
+      {
+        "title": "2nd place in Colloquium'22",
+        "subtitle": "Currents'22, NIT Trichy",
+        "project": "Project SPS | Feb 2022"
+      },
+      {
+        "title": "1st place in Project Presentation",
+        "subtitle": "CBIT, Hyderabad",
+        "project": "Project SPS | Dec 2021"
+      },
+      {
+        "title": "3rd place in Ideavation’21",
+        "subtitle": "AISSMS, Pune",
+        "project": "Project SPS | Dec 2021"
+      },
+      {
+        "title": "1st place in Amrita Smart City Hackathon 2021",
+        "subtitle": "Amrita Coimbatore - Honeywell Technologies",
+        "project": "Project SPS | Oct 2021"
+      },
+      {
+        "title": "15+ prizes at SSN Invente 6.0",
+        "subtitle": "SSN college of engineering",
+        "project": "Oct 2021"
+      },
+      {
+        "title": "Presented paper at IEEE Madras section conference",
+        "subtitle": "Deep Learning Based Muscle Intent Classification in Continuous Passive Motion Machine for Knee Osteoarthritis Rehabilitation",
+        "project": "Project MARKO | March 2021"
+      },
+      {
+        "title": "Semi-finalists at Samvedan 2021",
+        "subtitle": "Sony - IIT Madras",
+        "project": "Project SSC | Sept 2021"
+      },
+      {
+        "title": "2nd place in eYantra Robotics Competition 2021-2022",
+        "subtitle": "eYantra Labs, IIT Bombay",
+        "project": "Sept 2021"
+      },
+      {
+        "title": "1st place in Wissensire Paper Presentation",
+        "subtitle": " IIT Bhubaneswar",
+        "project": "Project SRF | April 2021"
+      },
+      {
+        "title": "2nd place in APOGEE Project exhibition",
+        "subtitle": "BITS Pilani",
+        "project": "Project SRF | April 2021"
+      },
+      {
+        "title": "3rd place in idEEaVolt 2.0",
+        "subtitle": "IIT Roorkee",
+        "project": "Project SRF | April 2021"
+      },
+      {
+        "title": "2 prizes at Cognizance",
+        "subtitle": "IIT Roorkee",
+        "project": "Project SRF | March 2021"
+      },
+      {
+        "title": "2 prizes at Xion'21",
+        "subtitle": "SRM University",
+        "project": "March 2021"
+      },
+      {
+        "title": "2 prizes at Elan and ηvision 2021",
+        "subtitle": "IIT Hyderabad",
+        "project": "Project SRF | March 2021"
+      },
+      {
+        "title": "2nd place in Sangam'21 - Healthcare and Agriculture",
+        "subtitle": "Pragyan'21, NIT Trichy",
+        "project": "Project MARKO | March 2021"
+      },
+      {
+        "title": "3rd place in Sangam'21 - Healthcare and Agriculture",
+        "subtitle": "Pragyan'21, NIT Trichy",
+        "project": "Project CHAOS | March 2021"
+      },
+      {
+        "title": "2 prizes at Probe'21",
+        "subtitle": "NIT Trichy",
+        "project": "Feb 2021"
+      },
+      {
+        "title": "1st place in Synergy'21 Paper presentation",
+        "subtitle": "NIT Trichy",
+        "project": "Project SRF | Jan 2021"
+      },
+      {
+        "title": "1st place in Ardrillo",
+        "subtitle": "Shaastra'21, IIT Madras",
+        "project": "Jan 2021"
+      },
+      {
+        "title": "7+ prizes at SSN Invente 5.0",
+        "subtitle": "SSN college of engineering",
+        "project": "Oct 2020"
+      },
+      {
+        "title": "1st place in eYantra Robotics Competition 2020-2021",
+        "subtitle": "eYantra Labs, IIT Bombay",
+        "project": "Sept 2020"
+      },
+      {
+        "title": "1st place in Transfinitte'20",
+        "subtitle": "NIT Trichy",
+        "project": "Feb 2020"
+      },
+      {
+        "title": "1st place in Colloquium'20",
+        "subtitle": "Currents'20, NIT Trichy",
+        "project": "Project SRF | Feb 2020"
+      },
+      {
+        "title": "Presented paper at iNaCoMM 2019",
+        "subtitle": "Search and Reconnaissance Robot for Disaster Management",
+        "project": "Project SSR | Dec 2019"
+      },
+      {
+        "title": "Presented paper at iNaCoMM 2019",
+        "subtitle": "Design and Control of a Low-cost EMG-based Soft Robotic Ankle-Foot Orthosis for Foot Drop Rehabilitation",
+        "project": "Project SPEAR | Dec 2019"
+      },
+      {
+        "title": "3rd place in eYantra Robotics Competition 2019-2020",
+        "subtitle": "eYantra Labs, IIT Bombay",
+        "project": "Sept 2019"
+      },
+      {
+        "title": "Presented paper at Advances in Robotics 2019",
+        "subtitle": "Semi-autonomous robot for landmine detection and removal",
+        "project": "Project EXO | July 2019"
+      },
+      {
+        "title": "3rd place in Sangam'19 - Healthcare and Agriculture",
+        "subtitle": "Pragyan'19, NIT Trichy",
+        "project": "Project SPEAR | March 2019"
+      },
+      {
+        "title": "Presented paper at Fifth Indian Control Conference",
+        "project": "Project ARES | Dec 2018"
+      },
+      {
+        "title": "Presented paper at RoSMa 2018",
+        "project": "Project Quadcopter | July 2018"
+      },
+      {
+        "title": "1st place in Sangam'18 - Defence and Industrial",
+        "subtitle": "Pragyan'18, NIT Trichy",
+        "project": "Project UXO March 2018"
+      },
+      {
+        "title": "Presented 4 projects at FINE",
+        "subtitle": "Rashtrapati Bhavan",
+        "project": "Project ARES, UXO, RoBoat, Snake Bot | March 2018"
+      },
+      {
+        "title": "and counting . . ."
+      }
+    ]
+  },
+  "events": {
+    "events": [
+      {
+        "id": "1",
+        "title": "Genesis",
+        "subtitle": "The annual RMI workshop for freshmen at NIT Trichy",
+        "content": "Our annual workshop for the freshmen that serves as a platform to kindle their interest in Robotics. Various topics in Robotics are introduced that build a foundation for them to explore further. The workshop is structured for students to learn through hands-on-experience by building a bot combining multiple domains of Robotics.",
+        "images": [
+          "https://rmi-web-images.s3.ap-south-1.amazonaws.com/events/genesis_2.webp",
+          "https://rmi-web-images.s3.ap-south-1.amazonaws.com/events/genesis_1.webp",
+          "https://rmi-web-images.s3.ap-south-1.amazonaws.com/LApayYO.webp",
+          "https://rmi-web-images.s3.ap-south-1.amazonaws.com/OgKyEVy.webp",
+          "https://rmi-web-images.s3.ap-south-1.amazonaws.com/lt7viOo.webp",
+          "https://rmi-web-images.s3.ap-south-1.amazonaws.com/4Mx0mzy.webp",
+          "https://rmi-web-images.s3.ap-south-1.amazonaws.com/pSD6Cti.webp",
+          "https://rmi-web-images.s3.ap-south-1.amazonaws.com/K4T6zHs.webp",
+          "https://rmi-web-images.s3.ap-south-1.amazonaws.com/tgdzU6G.webp",
+          "https://rmi-web-images.s3.ap-south-1.amazonaws.com/rBpYc6N.webp",
+          "https://rmi-web-images.s3.ap-south-1.amazonaws.com/mWynqXN.webp"
+        ]
+      },
+      {
+        "id": "2",
+        "title": "InHoTTs",
+        "subtitle": "Inter-hostel technical tournament",
+        "content": "The annual inter-hostel technical tournament held in collaboration with Pragyan that provides an intellectual challenge and is a source of healthy competition between hostels. Participating teams build robots specific to problem statements and complete a set of tasks within predefined constraints, exhibiting technical prowess.",
+        "images": [
+          "https://rmi-web-images.s3.ap-south-1.amazonaws.com/events/inhotts_1.webp",
+          "https://rmi-web-images.s3.ap-south-1.amazonaws.com/events/inhotts_2.webp",
+          "https://rmi-web-images.s3.ap-south-1.amazonaws.com/bo3yQcs.webp",
+          "https://rmi-web-images.s3.ap-south-1.amazonaws.com/tPgsDKH.webp",
+          "https://rmi-web-images.s3.ap-south-1.amazonaws.com/M4CuiEU.webp",
+          "https://rmi-web-images.s3.ap-south-1.amazonaws.com/8Q9bMAw.webp",
+          "https://rmi-web-images.s3.ap-south-1.amazonaws.com/9sPlpWP.webp",
+          "https://rmi-web-images.s3.ap-south-1.amazonaws.com/fhxBJc0.webp"
+        ]
+      },
+      {
+        "id": "3",
+        "title": "Following",
+        "subtitle": "The annual flagship Robotics competition from RMI",
+        "content": "Our annual Robotics competition that tests a variety of technical domains, providing an opportunity for the freshmen to innovate and build complex systems with a mix of twists and additional challenges, making the competition a huge dive into the world of line-followers and autonomous bots.",
+        "images": [
+          "https://rmi-web-images.s3.ap-south-1.amazonaws.com/QLpcpf3.webp",
+          "https://rmi-web-images.s3.ap-south-1.amazonaws.com/Y7MaJbT.webp",
+          "https://rmi-web-images.s3.ap-south-1.amazonaws.com/ZaKpaDF.webp",
+          "https://rmi-web-images.s3.ap-south-1.amazonaws.com/7hP99Vd.webp"
+        ]
+      },
+      {
+        "id": "4",
+        "title": "RMI Hackathon",
+        "subtitle": "An inter-disciplinary hackathon series from RMI",
+        "content": "A 24-hour hackathon,  held consecutive to  Following,  where participants work and build on solutions to problem statements with  hardware available from our inventory, within the short time-frame. The platform aims to prove that, sometimes Beauty lies in simplicity !",
+        "images": [
+          "https://rmi-web-images.s3.ap-south-1.amazonaws.com/jWvB7x9.webp",
+          "https://rmi-web-images.s3.ap-south-1.amazonaws.com/YKTg0EN.webp",
+          "https://rmi-web-images.s3.ap-south-1.amazonaws.com/BXvHuYM.webp",
+          "https://rmi-web-images.s3.ap-south-1.amazonaws.com/Gbn7MgX.webp",
+          "https://rmi-web-images.s3.ap-south-1.amazonaws.com/ZnYDAgH.webp",
+          "https://rmi-web-images.s3.ap-south-1.amazonaws.com/tm76xWE.webp",
+          "https://rmi-web-images.s3.ap-south-1.amazonaws.com/SPEi0e8.webp",
+          "https://rmi-web-images.s3.ap-south-1.amazonaws.com/NCeSx5r.webp"
+        ]
+      },
+      {
+        "id": "5",
+        "title": "RoboVigyan",
+        "subtitle": "The RMI x Pragyan robotics event",
+        "content": "Conducted in collaboration with Pragyan, the annual technical fest of NIT Trichy,  this consists of a plethora of events for Robotics enthusiasts from various institutions to showcase their technical skills by competing against each other and proving their prowess in each of their desired domains.",
+        "images": [
+          "https://rmi-web-images.s3.ap-south-1.amazonaws.com/oQVdDic.webp",
+          "https://rmi-web-images.s3.ap-south-1.amazonaws.com/f25UL4z.webp",
+          "https://rmi-web-images.s3.ap-south-1.amazonaws.com/AO0G6t5.webp",
+          "https://rmi-web-images.s3.ap-south-1.amazonaws.com/yBfazBS.webp",
+          "https://rmi-web-images.s3.ap-south-1.amazonaws.com/ECJ2Hzs.webp",
+          "https://rmi-web-images.s3.ap-south-1.amazonaws.com/JavbhIS.webp",
+          "https://rmi-web-images.s3.ap-south-1.amazonaws.com/LoXlvI1.webp"
+        ]
+      },
+      {
+        "id": "6",
+        "title": "Pragyan Exhibition",
+        "subtitle": "The grand display of innovation and technology",
+        "content": "Visit our stalls during Pragyan to take a peek at the exciting projects and get to know what  we have been building over the years.  Get mesmerized at what the future of technology holds for humanity !",
+        "images": [
+          "https://rmi-web-images.s3.ap-south-1.amazonaws.com/events/exhibit_5.webp",
+          "https://rmi-web-images.s3.ap-south-1.amazonaws.com/events/exhibit_4.webp",
+          "https://rmi-web-images.s3.ap-south-1.amazonaws.com/events/exhibit_1.webp",
+          "https://rmi-web-images.s3.ap-south-1.amazonaws.com/events/exhibit_2.webp",
+          "https://rmi-web-images.s3.ap-south-1.amazonaws.com/events/exhibit_3.webp",
+          "https://rmi-web-images.s3.ap-south-1.amazonaws.com/pIMoUku.webp",
+          "https://rmi-web-images.s3.ap-south-1.amazonaws.com/QB4L7nZ.webp",
+          "https://rmi-web-images.s3.ap-south-1.amazonaws.com/N362RbP.webp",
+          "https://rmi-web-images.s3.ap-south-1.amazonaws.com/HQDY06y.webp",
+          "https://rmi-web-images.s3.ap-south-1.amazonaws.com/GDMXFwS.webp",
+          "https://rmi-web-images.s3.ap-south-1.amazonaws.com/9Ivb9rz.webp",
+          "https://rmi-web-images.s3.ap-south-1.amazonaws.com/zAAlhxm.webp",
+          "https://rmi-web-images.s3.ap-south-1.amazonaws.com/OtEJFE3.webp",
+          "https://rmi-web-images.s3.ap-south-1.amazonaws.com/TnbNQWz.webp"
           
-        {
-          "prizeIndex": "1",
-          "title": "Winnners of .....",
-          "organisers": "Organization .... "
-        },
-          
-         {
-          "prizeIndex": "0",
-          "title": "Winnners of .....",
-          "organisers": "Organization .... "
-        },
-          
-         {
-          "prizeIndex": "0",
-          "title": "Winnners of .....",
-          "organisers": "Organization .... "
-        },
-          
-         {
-          "prizeIndex": "0",
-          "title": "Winnners of .....",
-          "organisers": "Organization .... "
-        },
-          
-         {
-          "prizeIndex": "0",
-          "title": "Winnners of .....",
-          "organisers": "Organization .... "
-        } 
-      ],
-      "accolades": [
-        {
-          "title": "title of the event",
-          "subtitle": "organization name",
-          "project": "project name| month year"
-        },
-          
-        {
-          "title": "title of the event",
-          "subtitle": "organization name",
-          "project": "project name| month year"
-        },
-          
-        {
-          "title": "title of the event",
-          "subtitle": "organization name",
-          "project": "project name| month year"
-        },
-          
-        {
-          "title": "title of the event",
-          "subtitle": "organization name",
-          "project": "project name| month year"
-        },
-          
-        {
-          "title": "title of the event",
-          "subtitle": "organization name",
-          "project": "project name| month year"
-        },
-
-        {
-          "title": "and counting . . ."
-        }
-      ]
-    },
-    "events": {
-      "events": [
-        {
-          "id": "1",
-          "title": "Title of the event",
-          "subtitle": "One line description",
-          "content": "Description of the event, pictures put here are dummy. Actual pictures are required",
-          "images": [
-            "https://rmi-web-images.s3.ap-south-1.amazonaws.com/LApayYO.webp",
-            "https://rmi-web-images.s3.ap-south-1.amazonaws.com/OgKyEVy.webp",
-            "https://rmi-web-images.s3.ap-south-1.amazonaws.com/lt7viOo.webp",
-            "https://rmi-web-images.s3.ap-south-1.amazonaws.com/4Mx0mzy.webp",
-            "https://rmi-web-images.s3.ap-south-1.amazonaws.com/pSD6Cti.webp",
-            "https://rmi-web-images.s3.ap-south-1.amazonaws.com/K4T6zHs.webp",
-            "https://rmi-web-images.s3.ap-south-1.amazonaws.com/tgdzU6G.webp",
-            "https://rmi-web-images.s3.ap-south-1.amazonaws.com/rBpYc6N.webp",
-            "https://rmi-web-images.s3.ap-south-1.amazonaws.com/mWynqXN.webp"
-          ]
-        },
-        {
-          "id": "2",
-          "title": "Title of the event",
-          "subtitle": "One line description",
-          "content": "Description of the event, pictures put here are dummy. Actual pictures are required",
-          "images": [
-            "https://rmi-web-images.s3.ap-south-1.amazonaws.com/bo3yQcs.webp",
-            "https://rmi-web-images.s3.ap-south-1.amazonaws.com/tPgsDKH.webp",
-            "https://rmi-web-images.s3.ap-south-1.amazonaws.com/M4CuiEU.webp",
-            "https://rmi-web-images.s3.ap-south-1.amazonaws.com/8Q9bMAw.webp",
-            "https://rmi-web-images.s3.ap-south-1.amazonaws.com/9sPlpWP.webp",
-            "https://rmi-web-images.s3.ap-south-1.amazonaws.com/fhxBJc0.webp"
-          ]
-        },
-        {
-          "id": "3",
-           "title": "Title of the event",
-          "subtitle": "One line description",
-          "content": "Description of the event, pictures put here are dummy. Actual pictures are required",
-          "images": [
-            "https://rmi-web-images.s3.ap-south-1.amazonaws.com/QLpcpf3.webp",
-            "https://rmi-web-images.s3.ap-south-1.amazonaws.com/Y7MaJbT.webp",
-            "https://rmi-web-images.s3.ap-south-1.amazonaws.com/ZaKpaDF.webp",
-            "https://rmi-web-images.s3.ap-south-1.amazonaws.com/7hP99Vd.webp"
-          ]
-        },
-        {
-          "id": "4",
-           "title": "Title of the event",
-          "subtitle": "One line description",
-          "content": "Description of the event, pictures put here are dummy. Actual pictures are required",
-          "images": [
-            "https://rmi-web-images.s3.ap-south-1.amazonaws.com/jWvB7x9.webp",
-            "https://rmi-web-images.s3.ap-south-1.amazonaws.com/YKTg0EN.webp",
-            "https://rmi-web-images.s3.ap-south-1.amazonaws.com/BXvHuYM.webp",
-            "https://rmi-web-images.s3.ap-south-1.amazonaws.com/Gbn7MgX.webp",
-            "https://rmi-web-images.s3.ap-south-1.amazonaws.com/ZnYDAgH.webp",
-            "https://rmi-web-images.s3.ap-south-1.amazonaws.com/tm76xWE.webp",
-            "https://rmi-web-images.s3.ap-south-1.amazonaws.com/SPEi0e8.webp",
-            "https://rmi-web-images.s3.ap-south-1.amazonaws.com/NCeSx5r.webp"
-          ]
-        },
-        {
-          "id": "5",
-          "title": "Title of the event",
-          "subtitle": "One line description",
-          "content": "Description of the event, pictures put here are dummy. Actual pictures are required",
-          "images": [
-            "https://rmi-web-images.s3.ap-south-1.amazonaws.com/oQVdDic.webp",
-            "https://rmi-web-images.s3.ap-south-1.amazonaws.com/f25UL4z.webp",
-            "https://rmi-web-images.s3.ap-south-1.amazonaws.com/AO0G6t5.webp",
-            "https://rmi-web-images.s3.ap-south-1.amazonaws.com/yBfazBS.webp",
-            "https://rmi-web-images.s3.ap-south-1.amazonaws.com/ECJ2Hzs.webp",
-            "https://rmi-web-images.s3.ap-south-1.amazonaws.com/JavbhIS.webp",
-            "https://rmi-web-images.s3.ap-south-1.amazonaws.com/LoXlvI1.webp",
-            "https://rmi-web-images.s3.ap-south-1.amazonaws.com/LoXlvI1.webp"
-          ]
-        },
-        {
-          "id": "6",
-          "title": "Title of the event",
-          "subtitle": "One line description",
-          "content": "Description of the event, pictures put here are dummy. Actual pictures are required",
-          "images": [
-            "https://rmi-web-images.s3.ap-south-1.amazonaws.com/pIMoUku.webp",
-            "https://rmi-web-images.s3.ap-south-1.amazonaws.com/QB4L7nZ.webp",
-            "https://rmi-web-images.s3.ap-south-1.amazonaws.com/N362RbP.webp",
-            "https://rmi-web-images.s3.ap-south-1.amazonaws.com/HQDY06y.webp",
-            "https://rmi-web-images.s3.ap-south-1.amazonaws.com/OtEJFE3.webp",
-            "https://rmi-web-images.s3.ap-south-1.amazonaws.com/TnbNQWz.webp",
-            "https://rmi-web-images.s3.ap-south-1.amazonaws.com/GDMXFwS.webp",
-            "https://rmi-web-images.s3.ap-south-1.amazonaws.com/9Ivb9rz.webp",
-            "https://rmi-web-images.s3.ap-south-1.amazonaws.com/zAAlhxm.webp"
-          ]
-        }
-      ]
-    },
-    "ourTeam": {
+        ]
+      }
+    ]
+  },
+  "ourTeam": {
     "currentMembers": [
       {
         "batchTag": "2023",
@@ -2713,8 +2925,7 @@
       }
     ]
   },
-
-    "projects": {
+  "projects": {
     "projects": [
       {
         "pid": "31",
@@ -4656,206 +4867,231 @@
       }
     ]
   },
-
-    "facultyAdvisor": {
-      "name": "Dr. K S Geetha",
-      "imageLink": "https://tse1.mm.bing.net/th?id=OIP.JjMA0gy8txAciIp20zo1yAAAAA&pid=Api&rs=1&c=1&qlt=95&w=134&h=118",
-      "position": "Vice Principal",
-      "department": "R V College of Engineering",
-      "email": "pannir@nitt.edu",
-      "personalPage": "https://www.nitt.edu/home/academics/departments/mech/faculty/kpannir/",
-      "linkedIn": "",
-      "details": [
-        {
-          "header": "Qualification",
-          "type": "bullets",
-          "subdata": [
-            {
-              "subheading": "",
-              "data": [
-                "Qualification take from rvce website",
-                "Qualification take from rvce website",
-                "Qualification take from rvce website"
-              ]
-            }
-          ]
-        },
-        {
-          "header": "Experience",
-          "type": "bullets",
-          "subdata": [
-            {
-              "subheading": "",
-              "data": [
-                "Serving as faculty member since 1992, in Electronics & Communication Department, RVCE, Bangalore-059,",
-                "Presently Head of Department."
-              ]
-            }
-          ]
-        },
-        {
-          "header": "Industrial Consultancy and Training",
-          "type": "bullets",
-          "subdata": [
-            {
-              "subheading": "Consultancy project",
-              "data": [
-                "Mechanization of the ringing of Church bell at M/s St. Joseph College Church, Trichy-2 in the year 2000 using ABB DTC drive.",
-                "Performance evaluation of reciprocating compressors installed at SSTP, BHEL, Trichy-14.in the year 2004."
-              ]
-            },
-            {
-              "subheading": "Center of Excellence Scheme",
-              "data": [
-                "Under the center of excellence scheme established calibration facilities for calibration of temperature, pressure, voltage, current and speed. The calibration facilities are established using state of the art instrumentation and traceable to national standards."
-              ]
-            }
-          ]
-        },
-        {
-          "header": "Conference papers",
-          "type": "para",
-          "subdata": [
-            {
-              "subheading": "A New Device to Measure Instantaneous Swept Volume of Reciprocating Machines/Compressors,",
-              "data": [
-                "International Compressor Technology Conference at Purdue University, USA. July 12-15 2004, Pannir Selvam.K, Udyakumar.M, Nageswara Rao.C."
-              ]
-            },
-            {
-              "subheading": "In Situ Performance Evaluation of Industrial Reciprocating Air Compressors,",
-              "data": [
-                "In Spanish Journal Frio-Calor-Aire Acondicionado , May 2009. Originally Paper No;1422 in Proc. 19th Itl. Compressor Engineering Conf., Purdue Univ.U.S.A., July 2008, M.Udayakumar, K.Pannirselvam, and T.Suthakar."
-              ]
-            }
-          ]
-        },
-        {
-          "header": "Sponsored Research Project",
-          "type": "para",
-          "subdata": [
-            {
-              "subheading": "",
-              "data": [
-                "Theoretical and Experimental Investigations on Performance Influencing Parameters on Industrial Air Compressors. Project sponsored by MHRD, budget allocation: 6 lakhs. Principal Investigator: Dr.M.Udyakumar, Co-investigator: K.Pannir Selvam."
-              ]
-            }
-          ]
-        },
-        {
-          "header": "Patents granted",
-          "type": "bullets",
-          "subdata": [
-            {
-              "subheading": "An auxiliary starter and controller assembly for a compressor system",
-              "data": ["Patent application No. 1608/CHE/2006."]
-            },
-            {
-              "subheading": "Non-return valve for the pneumatic tube of a vehicle tyre",
-              "data": ["Patent granted on 6/02/2006, Patent No. 196266."]
-            },
-            {
-              "subheading": "Instantaneous swept volume measuring device for reciprocating machines",
-              "data": ["Patent granted on 29/12/2003, Patent No.201897."]
-            }
-          ]
-        }
-      ]
-    },
-    "webTeam": {
-      "mainArchitects": [
-        {
-          "name": "Prajwal N J",
-          "imageLink": "https://i.pinimg.com/originals/9b/68/3f/9b683fbc9aa6e4fbcb3126995b26a362.jpg",
-          "position": "Creative Director",
-          "additional": ["Head, Design and Publicity", "2022-2023"],
-          "github": "https://github.com/aswin-sreekumar/",
-          "linkedIn": "https://www.linkedin.com/in/aswin-sreekumar",
-          "email": "aswinsreekumar123@gmail.com"
-        },
-        {
-          "name": "Nisarga V",
-          "imageLink": "https://i.pinimg.com/originals/9b/68/3f/9b683fbc9aa6e4fbcb3126995b26a362.jpg",
-          "position": "Associate lead developer",
-          "additional": ["Web design", "UI/UX", "Front-End"],
-          "github": "https://github.com/kailashhari",
-          "linkedIn": "https://www.linkedin.com/in/kailash-hari-hara-krishnan-418458199/",
-          "email": "h.kailash1501@gmail.com"
-        },
-        {
-          "name": "Ritesh Gandhi",
-          "imageLink": "https://i.pinimg.com/originals/9b/68/3f/9b683fbc9aa6e4fbcb3126995b26a362.jpg",
-          "position": "Associate developer",
-          "additional": ["SysAd", "Front-End"],
-          "github": "https://github.com/indreshp135/",
-          "linkedIn": "https://www.linkedin.com/in/indresh-p-21b2581b6/",
-          "email": "indreshp135@gmail.com",
-          "personalPage": "https://indreshp135.github.io/"
-        },
-        {
-          "name": "Name",
-          "imageLink": "https://i.pinimg.com/originals/9b/68/3f/9b683fbc9aa6e4fbcb3126995b26a362.jpg",
-          "position": "Associate developer",
-          "additional": ["Front-End", "Mobile Development"],
-          "github": "https://github.com/Muhesh7/",
-          "linkedIn": "https://www.linkedin.com/in/muhesh/",
-          "email": "vmspride7@gmail.com",
-          "personalPage": "https://muhesh7.github.io/"
-        }
-      ],
-      "addnArchitects": [
-        {
-          "name": "Name",
-          "imageLink": "https://i.pinimg.com/originals/9b/68/3f/9b683fbc9aa6e4fbcb3126995b26a362.jpg",
-          "position": "Coordinator",
-          "github": "https://github.com/Vakula289",
-          "linkedIn": "https://www.linkedin.com/in/vakula-v",
-          "email": "vakulaven280@gmail.com"
-        },
-        {
-          "name": "Name",
-          "imageLink": "https://i.pinimg.com/originals/9b/68/3f/9b683fbc9aa6e4fbcb3126995b26a362.jpg",
-          "position": "Coordinator",
-          "github": "https://github.com/shyaam-963",
-          "linkedIn": "https://www.linkedin.com/in/shyaam-pon-sundar-s-3166b51a7",
-          "email": "shyaam.pon@gmail.com"
-        }
-      ],
-      "webops": [
-        {
-          "name": "Name",
-          "imageLink": "https://i.pinimg.com/originals/9b/68/3f/9b683fbc9aa6e4fbcb3126995b26a362.jpg",
-          "position": "Head, Web-ops",
-          "additional": ["2022 - 2023"],
-          "github": "https://github.com/RahulraaghavA1308",
-          "linkedIn": "https://www.linkedin.com/in/rahul-raaghav-a-308446202/",
-          "email": "rahulgksvv@gmail.com"
-        }
-      ]
-    },
-    "miscellaneous": {
-      "landingPageImages": [
-        "https://rmi-web-images.s3.ap-south-1.amazonaws.com/xY0SHFJ.webp",
-        "https://rmi-web-images.s3.ap-south-1.amazonaws.com/L2Dty3R.webp",
-        "https://rmi-web-images.s3.ap-south-1.amazonaws.com/BGJ6FbF.webp",
-        "https://rmi-web-images.s3.ap-south-1.amazonaws.com/KtCZ4mp.webp",
-        "https://rmi-web-images.s3.ap-south-1.amazonaws.com/UTMup5K.webp"
-      ],
-      "ourTeamImages": [
-        "https://rmi-web-images.s3.ap-south-1.amazonaws.com/hB8Izmm.webp",
-        "https://rmi-web-images.s3.ap-south-1.amazonaws.com/H60te2a.webp",
-        "https://rmi-web-images.s3.ap-south-1.amazonaws.com/jagaDTa.webp"
-      ],
-      "projectsPageImages": [
-        "https://rmi-web-images.s3.ap-south-1.amazonaws.com/VaaUbiK.webp",
-        "https://rmi-web-images.s3.ap-south-1.amazonaws.com/dPpT5ET.webp",
-        "https://rmi-web-images.s3.ap-south-1.amazonaws.com/ilWW3kr.webp"
-      ],
-      "accoladesImages": [
-        "https://rmi-web-images.s3.ap-south-1.amazonaws.com/BpFJEbt.webp",
-        "https://rmi-web-images.s3.ap-south-1.amazonaws.com/f9v5oyz.webp",
-        "https://rmi-web-images.s3.ap-south-1.amazonaws.com/e3EIRRD.webp"
-      ],
-      "youtubeVideo": "BQTdkx3urrg"
-    }
+  "facultyAdvisor": {
+    "name": "Dr. K. Pannirselvam",
+    "imageLink": "https://rmi-web-images.s3.ap-south-1.amazonaws.com/naEQZI1.webp",
+    "position": "Head of Department",
+    "department": "Department of Mechanical Engineering",
+    "email": "pannir@nitt.edu",
+    "personalPage": "https://www.nitt.edu/home/academics/departments/mech/faculty/kpannir/",
+    "linkedIn": "",
+    "details": [
+      {
+        "header": "Qualification",
+        "type": "bullets",
+        "subdata": [
+          {
+            "subheading": "",
+            "data": [
+              "B.E. in Mechanical Engineering (CIT, Coimbatore)1989.",
+              "M.E. in Manufacturing Technology (REC, Tiruchirappalli) 1992.",
+              "PhD in Mechanical (NIT, Tiruchirappalli) 2009."
+            ]
+          }
+        ]
+      },
+      {
+        "header": "Experience",
+        "type": "bullets",
+        "subdata": [
+          {
+            "subheading": "",
+            "data": [
+              "Serving as faculty member since 1992, in Mechanical Engineering Department, NIT, Tiruchirappalli-15,",
+              "Presently Head of Department."
+            ]
+          }
+        ]
+      },
+      {
+        "header": "Industrial Consultancy and Training",
+        "type": "bullets",
+        "subdata": [
+          {
+            "subheading": "Consultancy project",
+            "data": [
+              "Mechanization of the ringing of Church bell at M/s St. Joseph College Church, Trichy-2 in the year 2000 using ABB DTC drive.",
+              "Performance evaluation of reciprocating compressors installed at SSTP, BHEL, Trichy-14.in the year 2004."
+            ]
+          },
+          {
+            "subheading": "Center of Excellence Scheme",
+            "data": [
+              "Under the center of excellence scheme established calibration facilities for calibration of temperature, pressure, voltage, current and speed. The calibration facilities are established using state of the art instrumentation and traceable to national standards."
+            ]
+          }
+        ]
+      },
+      {
+        "header": "Conference papers",
+        "type": "para",
+        "subdata": [
+          {
+            "subheading": "A New Device to Measure Instantaneous Swept Volume of Reciprocating Machines/Compressors,",
+            "data": [
+              "International Compressor Technology Conference at Purdue University, USA. July 12-15 2004, Pannir Selvam.K, Udyakumar.M, Nageswara Rao.C."
+            ]
+          },
+          {
+            "subheading": "In Situ Performance Evaluation of Industrial Reciprocating Air Compressors,",
+            "data": [
+              "In Spanish Journal Frio-Calor-Aire Acondicionado , May 2009. Originally Paper No;1422 in Proc. 19th Itl. Compressor Engineering Conf., Purdue Univ.U.S.A., July 2008, M.Udayakumar, K.Pannirselvam, and T.Suthakar."
+            ]
+          }
+        ]
+      },
+      {
+        "header": "Sponsored Research Project",
+        "type": "para",
+        "subdata": [
+          {
+            "subheading": "",
+            "data": [
+              "Theoretical and Experimental Investigations on Performance Influencing Parameters on Industrial Air Compressors. Project sponsored by MHRD, budget allocation: 6 lakhs. Principal Investigator: Dr.M.Udyakumar, Co-investigator: K.Pannir Selvam."
+            ]
+          }
+        ]
+      },
+      {
+        "header": "Patents granted",
+        "type": "bullets",
+        "subdata": [
+          {
+            "subheading": "An auxiliary starter and controller assembly for a compressor system",
+            "data": ["Patent application No. 1608/CHE/2006."]
+          },
+          {
+            "subheading": "Non-return valve for the pneumatic tube of a vehicle tyre",
+            "data": ["Patent granted on 6/02/2006, Patent No. 196266."]
+          },
+          {
+            "subheading": "Instantaneous swept volume measuring device for reciprocating machines",
+            "data": ["Patent granted on 29/12/2003, Patent No.201897."]
+          }
+        ]
+      }
+    ]
+  },
+  "webTeam": {
+    "mainArchitects": [
+      {
+        "name": "Aswin Sreekumar",
+        "imageLink": "https://rmi-web-images.s3.ap-south-1.amazonaws.com/u8NyVGp.webp",
+        "position": "Creative Director",
+        "additional": ["Head, Design and Publicity", "2022-2023"],
+        "github": "https://github.com/aswin-sreekumar/",
+        "linkedIn": "https://www.linkedin.com/in/aswin-sreekumar",
+        "email": "aswinsreekumar123@gmail.com"
+      },
+      {
+        "name": "H Kailash",
+        "imageLink": "https://rmi-web-images.s3.ap-south-1.amazonaws.com/47WtxrX.webp",
+        "position": "Associate lead developer",
+        "additional": ["Web design", "UI/UX", "Front-End"],
+        "github": "https://github.com/kailashhari",
+        "linkedIn": "https://www.linkedin.com/in/kailash-hari-hara-krishnan-418458199/",
+        "email": "h.kailash1501@gmail.com"
+      },
+      {
+        "name": "Indresh P",
+        "imageLink": "https://rmi-web-images.s3.ap-south-1.amazonaws.com/fW4zHWm.jpg",
+        "position": "Associate developer",
+        "additional": ["SysAd", "Front-End"],
+        "github": "https://github.com/indreshp135/",
+        "linkedIn": "https://www.linkedin.com/in/indresh-p-21b2581b6/",
+        "email": "indreshp135@gmail.com",
+        "personalPage": "https://indreshp135.github.io/"
+      },
+      {
+        "name": "Muhesh K",
+        "imageLink": "https://rmi-web-images.s3.ap-south-1.amazonaws.com/eFokmcA.webp",
+        "position": "Associate developer",
+        "additional": ["Front-End", "Mobile Development"],
+        "github": "https://github.com/Muhesh7/",
+        "linkedIn": "https://www.linkedin.com/in/muhesh/",
+        "email": "vmspride7@gmail.com",
+        "personalPage": "https://muhesh7.github.io/"
+      }
+    ],
+    "addnArchitects": [
+      {
+        "name": "Vakula Venkatesh",
+        "imageLink": "https://rmi-web-images.s3.ap-south-1.amazonaws.com/BqDVMAE.webp",
+        "position": "Coordinator",
+        "github": "https://github.com/Vakula289",
+        "linkedIn": "https://www.linkedin.com/in/vakula-v",
+        "email": "vakulaven280@gmail.com"
+      },
+      {
+        "name": "Shyaam Pon Sundar S",
+        "imageLink": "https://rmi-web-images.s3.ap-south-1.amazonaws.com/shyaam.webp",
+        "position": "Coordinator",
+        "github": "https://github.com/shyaam-963",
+        "linkedIn": "https://www.linkedin.com/in/shyaam-pon-sundar-s-3166b51a7",
+        "email": "shyaam.pon@gmail.com"
+      },
+      {
+        "name": "Madhav R",
+        "imageLink": "https://rmi-web-images.s3.ap-south-1.amazonaws.com/2OZ9GJ3.webp",
+        "position": "Coordinator",
+        "github": "https://github.com/madE03",
+        "linkedIn": "https://www.linkedin.com/in/madhav-r-2867b920b",
+        "email": "madspace49@gmail.com"
+      },
+      {
+        "name": "P N Kalaimani",
+        "imageLink": "https://rmi-web-images.s3.ap-south-1.amazonaws.com/lfYGRmL.webp",
+        "position": "Coordinator",
+        "github": "https://github.com/Kalaimani02",
+        "linkedIn": "https://www.linkedin.com/in/p-n-kalaimani-69a276217/",
+        "email": "kalaimegu2002@gmail.com"
+      }
+    ],
+    "webops": [
+      {
+        "name": "Rahul Raaghav A",
+        "imageLink": "https://rmi-web-images.s3.ap-south-1.amazonaws.com/zMTydOw.webp",
+        "position": "Head, Web-ops",
+        "additional": ["2022 - 2023"],
+        "github": "https://github.com/RahulraaghavA1308",
+        "linkedIn": "https://www.linkedin.com/in/rahul-raaghav-a-308446202/",
+        "email": "rahulgksvv@gmail.com"
+      }
+    ]
+  },
+  "miscellaneous": {
+    "landingPageImages": [
+      "https://rmi-web-images.s3.ap-south-1.amazonaws.com/backgroung_images/main_1.webp",
+      "https://rmi-web-images.s3.ap-south-1.amazonaws.com/xY0SHFJ.webp",
+      "https://rmi-web-images.s3.ap-south-1.amazonaws.com/backgroung_images/main_2.webp",
+      "https://rmi-web-images.s3.ap-south-1.amazonaws.com/L2Dty3R.webp",
+      "https://rmi-web-images.s3.ap-south-1.amazonaws.com/backgroung_images/main_3.webp",
+      "https://rmi-web-images.s3.ap-south-1.amazonaws.com/BGJ6FbF.webp",
+      "https://rmi-web-images.s3.ap-south-1.amazonaws.com/KtCZ4mp.webp",
+      "https://rmi-web-images.s3.ap-south-1.amazonaws.com/UTMup5K.webp"
+    ],
+    "ourTeamImages": [
+      "https://rmi-web-images.s3.ap-south-1.amazonaws.com/backgroung_images/our_team.webp",
+      "https://rmi-web-images.s3.ap-south-1.amazonaws.com/hB8Izmm.webp",
+      "https://rmi-web-images.s3.ap-south-1.amazonaws.com/H60te2a.webp",
+      "https://rmi-web-images.s3.ap-south-1.amazonaws.com/jagaDTa.webp"
+    ],
+    "projectsPageImages": [
+      "https://rmi-web-images.s3.ap-south-1.amazonaws.com/backgroung_images/proj_2.webp",
+      "https://rmi-web-images.s3.ap-south-1.amazonaws.com/VaaUbiK.webp",
+      "https://rmi-web-images.s3.ap-south-1.amazonaws.com/backgroung_images/proj_3.webp",
+      "https://rmi-web-images.s3.ap-south-1.amazonaws.com/dPpT5ET.webp",
+      "https://rmi-web-images.s3.ap-south-1.amazonaws.com/backgroung_images/project_1.webp",
+      "https://rmi-web-images.s3.ap-south-1.amazonaws.com/ilWW3kr.webp"
+    ],
+    "accoladesImages": [
+      "https://rmi-web-images.s3.ap-south-1.amazonaws.com/backgroung_images/acc_1.webp",
+      "https://rmi-web-images.s3.ap-south-1.amazonaws.com/BpFJEbt.webp",
+      "https://rmi-web-images.s3.ap-south-1.amazonaws.com/backgroung_images/acc_2.webp",
+      "https://rmi-web-images.s3.ap-south-1.amazonaws.com/f9v5oyz.webp",
+      "https://rmi-web-images.s3.ap-south-1.amazonaws.com/backgroung_images/acc_3.webp",
+      "https://rmi-web-images.s3.ap-south-1.amazonaws.com/e3EIRRD.webp"
+    ],
+    "youtubeVideo": "bmkBnwScXnc"
   }
+}
