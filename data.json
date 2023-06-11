@@ -44,8 +44,18 @@
     ],
     "accolades": [
       {
-        "title": "Achievement-Position in Competition-Name",
-        "subtitle": "Conducted By Astra Robotics, RVCE Bangalore",
+        "title": "Position achieveved in Competition",
+        "subtitle": "Conducted By Organization, College/City",
+        "project": "Project Name | Month Year"
+      },
+      {
+        "title": "Position achieveved in Competition",
+        "subtitle": "Conducted By Organization, College/City",
+        "project": "Project Name | Month Year"
+      },
+      {
+         "title": "Position achieveved in Competition",
+        "subtitle": "Conducted By Organization, College/City",
         "project": "Project Name | Month Year"
       },
       {
@@ -54,18 +64,8 @@
         "project": "Project Name | Month Year"
       },
       {
-        "title": "Achievement-Position in Competition-Name",
-        "subtitle": "Conducted By Astra Robotics, RVCE Bangalore",
-        "project": "Project Name | Month Year"
-      },
-      {
-        "title": "Achievement-Position in Competition-Name",
-        "subtitle": "Conducted By Astra Robotics, RVCE Bangalore",
-        "project": "Project Name | Month Year"
-      },
-      {
-        "title": "Achievement-Position in Competition-Name",
-        "subtitle": "Conducted By Astra Robotics, RVCE Bangalore",
+        "title": "Position achieveved in Competition",
+        "subtitle": "Conducted By Organization, College/City",
         "project": "Project Name | Month Year"
       },
       {
@@ -78,7 +78,7 @@
       {
         "id": "1",
         "title": "Genesis",
-        "subtitle": "The annual RMI workshop for freshmen at NIT Trichy",
+        "subtitle": "The annual workshop for freshmen at Astra Robotics",
         "content": "Our annual workshop for the freshmen that serves as a platform to kindle their interest in Robotics. Various topics in Robotics are introduced that build a foundation for them to explore further. The workshop is structured for students to learn through hands-on-experience by building a bot combining multiple domains of Robotics.",
         "images": [
           "https://rmi-web-images.s3.ap-south-1.amazonaws.com/events/genesis_2.webp",
@@ -96,9 +96,9 @@
       },
       {
         "id": "2",
-        "title": "InHoTTs",
-        "subtitle": "Inter-hostel technical tournament",
-        "content": "The annual inter-hostel technical tournament held in collaboration with Pragyan that provides an intellectual challenge and is a source of healthy competition between hostels. Participating teams build robots specific to problem statements and complete a set of tasks within predefined constraints, exhibiting technical prowess.",
+        "title": "Genesis",
+        "subtitle": "The annual workshop for freshmen at Astra Robotics",
+        "content": "Our annual workshop for the freshmen that serves as a platform to kindle their interest in Robotics. Various topics in Robotics are introduced that build a foundation for them to explore further. The workshop is structured for students to learn through hands-on-experience by building a bot combining multiple domains of Robotics.",
         "images": [
           "https://rmi-web-images.s3.ap-south-1.amazonaws.com/events/inhotts_1.webp",
           "https://rmi-web-images.s3.ap-south-1.amazonaws.com/events/inhotts_2.webp",
@@ -112,9 +112,9 @@
       },
       {
         "id": "3",
-        "title": "Following",
-        "subtitle": "The annual flagship Robotics competition from RMI",
-        "content": "Our annual Robotics competition that tests a variety of technical domains, providing an opportunity for the freshmen to innovate and build complex systems with a mix of twists and additional challenges, making the competition a huge dive into the world of line-followers and autonomous bots.",
+        "title": "Genesis",
+        "subtitle": "The annual workshop for freshmen at Astra Robotics",
+        "content": "Our annual workshop for the freshmen that serves as a platform to kindle their interest in Robotics. Various topics in Robotics are introduced that build a foundation for them to explore further. The workshop is structured for students to learn through hands-on-experience by building a bot combining multiple domains of Robotics.",
         "images": [
           "https://rmi-web-images.s3.ap-south-1.amazonaws.com/QLpcpf3.webp",
           "https://rmi-web-images.s3.ap-south-1.amazonaws.com/Y7MaJbT.webp",
@@ -124,9 +124,9 @@
       },
       {
         "id": "4",
-        "title": "RMI Hackathon",
-        "subtitle": "An inter-disciplinary hackathon series from RMI",
-        "content": "A 24-hour hackathon,  held consecutive to  Following,  where participants work and build on solutions to problem statements with  hardware available from our inventory, within the short time-frame. The platform aims to prove that, sometimes Beauty lies in simplicity !",
+        "title": "Genesis",
+        "subtitle": "The annual workshop for freshmen at Astra Robotics",
+        "content": "Our annual workshop for the freshmen that serves as a platform to kindle their interest in Robotics. Various topics in Robotics are introduced that build a foundation for them to explore further. The workshop is structured for students to learn through hands-on-experience by building a bot combining multiple domains of Robotics.",
         "images": [
           "https://rmi-web-images.s3.ap-south-1.amazonaws.com/jWvB7x9.webp",
           "https://rmi-web-images.s3.ap-south-1.amazonaws.com/YKTg0EN.webp",
@@ -140,9 +140,9 @@
       },
       {
         "id": "5",
-        "title": "RoboVigyan",
-        "subtitle": "The RMI x Pragyan robotics event",
-        "content": "Conducted in collaboration with Pragyan, the annual technical fest of NIT Trichy,  this consists of a plethora of events for Robotics enthusiasts from various institutions to showcase their technical skills by competing against each other and proving their prowess in each of their desired domains.",
+        "title": "Genesis",
+        "subtitle": "The annual workshop for freshmen at Astra Robotics",
+        "content": "Our annual workshop for the freshmen that serves as a platform to kindle their interest in Robotics. Various topics in Robotics are introduced that build a foundation for them to explore further. The workshop is structured for students to learn through hands-on-experience by building a bot combining multiple domains of Robotics.",
         "images": [
           "https://rmi-web-images.s3.ap-south-1.amazonaws.com/oQVdDic.webp",
           "https://rmi-web-images.s3.ap-south-1.amazonaws.com/f25UL4z.webp",
@@ -155,9 +155,9 @@
       },
       {
         "id": "6",
-        "title": "Pragyan Exhibition",
-        "subtitle": "The grand display of innovation and technology",
-        "content": "Visit our stalls during Pragyan to take a peek at the exciting projects and get to know what  we have been building over the years.  Get mesmerized at what the future of technology holds for humanity !",
+        "title": "Genesis",
+        "subtitle": "The annual workshop for freshmen at Astra Robotics",
+        "content": "Our annual workshop for the freshmen that serves as a platform to kindle their interest in Robotics. Various topics in Robotics are introduced that build a foundation for them to explore further. The workshop is structured for students to learn through hands-on-experience by building a bot combining multiple domains of Robotics.",
         "images": [
           "https://rmi-web-images.s3.ap-south-1.amazonaws.com/events/exhibit_5.webp",
           "https://rmi-web-images.s3.ap-south-1.amazonaws.com/events/exhibit_4.webp",
@@ -183,58 +183,58 @@
       {
         "batchTag": "2023",
         "id": "136",
-        "name": "Rigved Sanku",
-        "imageLink": "https://rmi-web-images.s3.ap-south-1.amazonaws.com/cAmnVx1.webp",
-        "position": "President",
+        "name": "Namw",
+        "imageLink": " ",
+        "position": "Position",
         "domains": [
-          "Deep Learning",
-          "Computer Vision",
-          "Natural Language Processing"
+          "Skill 1",
+          "Skill 2",
+          "Skill 3"
         ],
-        "github": "https://github.com/Rigved19",
-        "linkedIn": "https://www.linkedin.com/in/rigved-sanku-8933041aa/",
-        "email": "sankurigved@gmail.com",
+        "github": "",
+        "linkedIn": "",
+        "email": "",
         "projects": [
           {
-            "pid": "30",
-            "pname": "ANVI"
+            "pid": "",
+            "pname": "Project Name"
           }
         ]
       },
       {
         "batchTag": "2023",
         "id": "137",
-        "name": "K Girish",
-        "imageLink": "https://rmi-web-images.s3.ap-south-1.amazonaws.com/137_K_Girish.webp",
-        "position": "Vice President",
+        "name": "Name",
+        "imageLink": "",
+        "position": "Position",
         "domains": [
-          "Electronics and Embedded Systems",
-          "Mechanics",
-          "Control systems"
+          "Skill 1",
+          "Skill 2",
+          "Skill 3"
         ],
-        "github": "https://github.com/girish-2001",
-        "linkedIn": "https://www.linkedin.com/in/girish-karthik-959165191/",
-        "email": "girishk1470@gmail.com",
+        "github": "",
+        "linkedIn": "",
+        "email": "",
         "projects": [
           {
-            "pid": "32",
-            "pname": "Hexapod"
+            "pid": "",
+            "pname": "Project 1"
           },
           {
-            "pid": "28",
-            "pname": "LEWI"
+            "pid": "",
+            "pname": "Project 2"
           },
           {
-            "pid": "24",
-            "pname": "STAR"
+            "pid": "",
+            "pname": "Project 3"
           },
           {
-            "pid": "22",
-            "pname": "CHAOS"
+            "pid": "",
+            "pname": "Project 4"
           },
           {
-            "pid": "0",
-            "pname": "4-DOF Arm"
+            "pid": "",
+            "pname": "Project 5"
           }
         ]
       },
